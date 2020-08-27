@@ -1,0 +1,19 @@
+{
+  "name": "godssafeids",
+  "version": "1.0.0",
+  "description": "Gods ID Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJ-JR30/GodsSafeID.git"
+  },
+  "author": "DevDex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DJ-JR30/GodsSafeID/issues"
+  },
+  "homepage": "https://github.com/DJ-JR30/GodsSafeID#readme"
+}
