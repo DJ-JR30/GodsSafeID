@@ -27,6 +27,6 @@ var ID = GodsSafeIds();
 console.log(ID);
 ```
 
-#Support
+# Support
 
 If you need help in using I on discord with the account **DJ JR30#1315**
