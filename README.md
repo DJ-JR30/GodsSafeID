@@ -16,7 +16,7 @@ A Gods ID is a password but in the Gods position, it a strong password generator
 
 # Installation
 
-`npm i shadowizard --save`
+`npm i godssafeids`
 
 Then...
 
